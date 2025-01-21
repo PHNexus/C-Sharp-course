@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Documents\\GitHub\\C-Sharp\\Console.app\\Console.app.csproj": {}
+    "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Documents\\GitHub\\C-Sharp\\Console.app\\Console.app.csproj": {
+    "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Documents\\GitHub\\C-Sharp\\Console.app\\Console.app.csproj",
+        "projectUniqueName": "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj",
         "projectName": "Console.app",
-        "projectPath": "C:\\Users\\marco\\Documents\\GitHub\\C-Sharp\\Console.app\\Console.app.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Documents\\GitHub\\C-Sharp\\Console.app\\obj\\",
+        "projectPath": "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj",
+        "packagesPath": "/home/takashi/.nuget/packages/",
+        "outputPath": "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/takashi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
