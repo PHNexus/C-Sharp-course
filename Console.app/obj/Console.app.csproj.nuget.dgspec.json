@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj": {}
+    "/home/takashi/GitHub/C-Sharp/Console.app/Console.app.csproj": {}
   },
   "projects": {
-    "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj": {
+    "/home/takashi/GitHub/C-Sharp/Console.app/Console.app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj",
+        "projectUniqueName": "/home/takashi/GitHub/C-Sharp/Console.app/Console.app.csproj",
         "projectName": "Console.app",
-        "projectPath": "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj",
+        "projectPath": "/home/takashi/GitHub/C-Sharp/Console.app/Console.app.csproj",
         "packagesPath": "/home/takashi/.nuget/packages/",
-        "outputPath": "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/obj/",
+        "outputPath": "/home/takashi/GitHub/C-Sharp/Console.app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/takashi/.nuget/NuGet/NuGet.Config"
@@ -54,6 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.1, 9.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
