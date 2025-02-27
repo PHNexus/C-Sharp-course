@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/nI4AfPOLgs=",
+  "dgSpecHash": "8gDVcqousq0=",
   "success": true,
-  "projectFilePath": "/home/takashi/GitHub/C-Sharp/Console.app/Console.app.csproj",
-  "expectedPackageFiles": [
-    "/home/takashi/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
