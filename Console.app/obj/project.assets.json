@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/home/takashi/.nuget/packages/": {}
+    "C:\\Users\\Takashi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj",
+      "projectUniqueName": "C:\\Users\\Takashi\\Documents\\GitHub\\C-Sharp\\Console.app\\Console.app.csproj",
       "projectName": "Console.app",
-      "projectPath": "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/Console.app.csproj",
-      "packagesPath": "/home/takashi/.nuget/packages/",
-      "outputPath": "/home/takashi/Documentos/GitHub/C-Sharp/Console.app/obj/",
+      "projectPath": "C:\\Users\\Takashi\\Documents\\GitHub\\C-Sharp\\Console.app\\Console.app.csproj",
+      "packagesPath": "C:\\Users\\Takashi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Takashi\\Documents\\GitHub\\C-Sharp\\Console.app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/takashi/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Takashi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
