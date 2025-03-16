@@ -13,6 +13,8 @@ namespace ConsoleApp
             var texto = ("Hello,World");  
             Console.WriteLine(texto);     
 
+            // cor var, e uma maneira mais preguisosa de se Declarar 
+
             // Declaracao de variavel Com Tipo
             int numero1 = 1;         // Numero Inteiro
             float numero2 = 15.6F;   // Numero Real
@@ -32,8 +34,14 @@ namespace ConsoleApp
 
             // Outras Formas De Declarar Variaveis
 
+            // maneira mais avancada, Tipagem Dinamica
 
+            dynamic cor_favorita = "Vermelho";
+            Console.WriteLine(cor_favorita);
 
+            // com variavel dinamica posso alterar o tipo dela
+            cor_favorita = 212121;
+            Console.WriteLine(cor_favorita);
 
 
                     // comentario com multiplas linhas /* */
