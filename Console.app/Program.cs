@@ -8,10 +8,10 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-
-        // Declarar Variavel
-            var texto = ("Hello,World"); 
-            Console.WriteLine(texto);
+            
+        // Declarar Variavel, Sem Declarar o Tipo
+            var texto = ("Hello,World");  
+            Console.WriteLine(texto);     
 
             // Declaracao de variavel Com Tipo
             int numero1 = 1;         // Numero Inteiro
@@ -29,19 +29,32 @@ namespace ConsoleApp
             double somas1 = 24;
             double soma1 = 24 + somas1;
             Console.WriteLine(soma1);
-            // Int    || 156 como 32334 Numero Inteiro
-            // Float  || 15.6 como 234.123 Numero Real, Com Virgula ===> Double/ decimal
-            // Bool   || Boleano || so pode ter 2 valores verdadeiro ou falso
-            // String || tipo de dado 'Texto'
-            // Char || '' aspas Simples 1 unico caracter
+
+            // Outras Formas De Declarar Variaveis
 
 
 
-            // /n ira quebrar a linha agora || WriteLine ira escrever o comando na tela e quebrar a linha
+
+
+                    // comentario com multiplas linhas /* */
+
+            /*
+             Int    || 156 como 32334 Numero Inteiro
+             Float  || 15.6 como 234.123 Numero Real, Com Virgula ===> Double/ decimal
+             Bool   || Boleano || so pode ter 2 valores verdadeiro ou falso
+             String || tipo de dado 'Texto'
+             Char   || '' aspas Simples 1 unico caracter
+            */
+
+
+            
             Console.Write("teste01");         // ira retornar teste 01
             Console.ReadLine();               // ira detectar oque o usuario,escreveu // ira esperar uma acao do usuario
             Console.Write("Hello World\n!"); // ira retornar Hello,World
-            Console.Write(""); 
+            Console.Write("");
+
+            // /n ira quebrar a linha agora
+            // WriteLine ira escrever o comando na tela e quebrar a linha
         }
     }
 }
