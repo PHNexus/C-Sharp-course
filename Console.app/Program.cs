@@ -2,26 +2,29 @@
 using System;
 using Microsoft.Win32;
 
-namespace ConsoleApp  
+namespace ConsoleApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            
-        // Declarar Variavel, Sem Declarar o Tipo
-            var texto = ("Hello,World");  
-            Console.WriteLine(texto);     
+            // Declarar Variavel, Sem Declarar o Tipo
+            var texto = ("Hello,World");
+            Console.WriteLine(texto);
 
-            // cor var, e uma maneira mais preguisosa de se Declarar 
+            // cor var, e uma maneira mais preguisosa de se Declarar
 
             // Declaracao de variavel Com Tipo
-            int numero1 = 1;         // Numero Inteiro
-            float numero2 = 15.6F;   // Numero Real
+            int numero1 = 1; // Numero Inteiro
+            float numero2 = 15.6F; // Numero Real
             double numero3 = 125.61; //Numero Real
-            bool numero4 = true;     // ou falso
+            bool numero4 = true; // ou falso
             string texto2 = "texto"; // tipo texto entre aspas duplas
-
+            Console.WriteLine(numero1);
+            Console.WriteLine(numero2);
+            Console.WriteLine(numero3);
+            Console.WriteLine(numero4);
+            Console.WriteLine(texto2);
             // soma com Numero Inteiro
             int somas = 12;
             int soma = 12 + somas;
@@ -43,8 +46,7 @@ namespace ConsoleApp
             cor_favorita = 212121;
             Console.WriteLine(cor_favorita);
 
-
-                    // comentario com multiplas linhas /* */
+            // comentario com multiplas linhas /* */
 
             /*
              Int    || 156 como 32334 Numero Inteiro
@@ -55,9 +57,9 @@ namespace ConsoleApp
             */
 
 
-            
-            Console.Write("teste01");         // ira retornar teste 01
-            Console.ReadLine();               // ira detectar oque o usuario,escreveu // ira esperar uma acao do usuario
+
+            Console.Write("teste01"); // ira retornar teste 01
+            Console.ReadLine(); // ira detectar oque o usuario,escreveu // ira esperar uma acao do usuario
             Console.Write("Hello World\n!"); // ira retornar Hello,World
             Console.Write("");
 
