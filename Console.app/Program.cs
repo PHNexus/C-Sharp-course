@@ -66,7 +66,7 @@ namespace ConsoleApp
             Console.Write("teste01"); // ira retornar teste 01
             Console.ReadLine(); // ira detectar oque o usuario,escreveu // ira esperar uma acao do usuario
             Console.Write("Hello World\n!"); // ira retornar Hello,World
-            Console.Write("");
+            // Console.Write("");
         }
     }
 }
