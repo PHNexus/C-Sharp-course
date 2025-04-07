@@ -11,7 +11,15 @@ namespace ConsoleApp
     {
         internal static void Main(string[] args)
         {
-            Console.Write("Hello,World");
+            Console.WriteLine("Hello,World");
+            int n1 = 12;
+            int n2 = 15;
+
+            int res = n1 + n2;
+            Console.Write(res);
+
+
+            
         }
     }
 }
